@@ -1,4 +1,0 @@
-runtime: php55
-handlers:
-- Url: /.*
- script: main.php
